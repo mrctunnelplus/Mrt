@@ -3,7 +3,7 @@
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=mrctunnelplus"><img src="https://raw.githubusercontent.com/mrctunnelplus/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-![mrctunnelplus's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mrctunnelplus/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mrctunnelplus&pattern=leaf&colorPattern=%23eaeaea)
+![mrctunnelplus's card name](https://cardivo.vercel.app/api?name=TUNNEL%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mrctunnelplus/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mrctunnelplus&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <h2 align="center">
@@ -20,22 +20,21 @@ Mod By Mrt
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN_Over_Websocket-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Over_DNS-success.svg">  <img src="https://img.shields.io/badge/Service-SSLH-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel5-success.svg">  <img src= "https://img.shields.io/badge/Service-OHP_Open_Http_Puncher-success.svg">  <img src= "https://img.shields.io/badge/Service-SSTP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-L2TP_VPN-success.svg">  <img src= "https://img.shields.io/badge/Service-PPTP_VPN-success.svg">
 <p align="center"><img src="https://img.shields.io/badge/Service-SSH_OpenSSH-success.svg">  <img src="https://img.shields.io/badge/Service-SSH_Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-SlowDns-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-XRAY-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_Websocket_TLS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_gRPC_VLESS_VMESS-success.svg">  <img src="https://img.shields.io/badge/Service-XRAY_TROJAN-success.svg">  <p align="center"><img src="https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan_Go-success.svg">  <img src="https://img.shields.io/badge/Service-WireGuard-success.svg">  <img src= "https://img.shields.io/badge/Service-Shadowsocks-success.svg">  
 
-### Script Khusus Xray Multi Port TERBARU
+### LATEST Xray Multi Port Special Script
 https://github.com/mrctunnelplus/XRAY-Mrt
-### Script Khusus Xray Multi Port TERBARU
+### LATEST Xray Multi Port Special Script
 
-### Link Grup FB: 
+### FB Group Links:
 https://www.facebook.com/mrconnectedvpn2
 ### Info:
-* HARAP DI BACA & UTAMAKAN MEMBACA
-# INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
-Buat VPS Fresh atau VPS Baru dan Wajib Menggunakan User: root
-* VPS AKUN ROOT
-* Login VPS User menggunakan user root
-* Cara langsung masuk ke akses root
+* PLEASE READ & PRIORITIZE READING
+# THIS IS A SPECIAL SCRIPT FOR CREATING A VPN SERVER
+Create a Fresh VPS or New VPS and you must use User: root
+* ROOT ACCOUNT VPS
+* Login to VPS Users using the root user
+* How to directly enter root access
 
 ```html
-sudo su
 ```
 Atau
 ```html
@@ -51,52 +50,52 @@ su
 https://www.facebook.com/100031931503057/posts/628374871570224/?app=fbl
 ```
 
-## INFO TAMBAHAN , SILAHKAN DI BACA 
-* MINIMAL RAM 1 GB UNTUK MENGGUNAKAN SCRIPT INI
-* MAAF PROXY SQUID NYA SAYA HAPUS, silahkan edit script ini secara manual
+## ADDITIONAL INFO, PLEASE READ
+* MINIMUM RAM 1 GB TO USE THIS SCRIPT
+* SORRY I DELETED THE SQUID PROXY, please edit this script manually
 
-# Khusus Untuk OS
+# Special For OS
 * • Debian 10 & 9
-atau
+or
 * • Ubuntu 18.04 & 20.04
 * Working For VPS AWS,AZURE,DO
-## Installation 
-## 1.
+## Installation
+##1.
 <img src="https://img.shields.io/badge/Update%20_&_%20Upgrade-green">
 
-  ```html
+   ```html
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
   
-## 2.0
+##2.0
 <img src="https://img.shields.io/badge/Login_Root%20VPS-green">
 
-* Login ke VPS dan Aktifkan Root Sementara
+* Login to VPS and Enable Temporary Root
 
   
 ```html
 sudo su
-cd
-cd
+CD
+CD
 ```
 
-## 2.
+##2.
 
-  <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-green">
+   <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-green">
 
-* Buat Akses Root Di VPS /Root VPS
-* Untuk Mengizinkan Root Dan Ubah Password Login di VPS Google Cloud Platform, Aws, Dan Lain-lain
+* Create Root Access on VPS / Root VPS
+* To Allow Root And Change Login Password on VPS Google Cloud Platform, Aws, And Others
    
 ```html
-  wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/mrctunnelplus/Mrt/main/vpsroot.sh && bash vpsroot.sh
+   wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/mrctunnelplus/Mrt/main/vpsroot.sh && bash vpsroot.sh
   
 ```
   
 ### 3.
 
-  <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-green">
+   <img src="https://img.shields.io/badge/Install_All_VPNServices_%20-green">
 
-* Install Semua Layanan VPN /Install All VPN Service
+* Install All VPN Service / Install All VPN Service
    
 ```html
 rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/mrctunnelplus/Mrt/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
@@ -104,40 +103,40 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ```
   
 
-### 4. DONE / SELESAI
+### 4. DONE / FINISHED
 <img src="https://img.shields.io/badge/DONE%20_/_%20SELESAI-green">
 
-* • jika tidak bisa login di vps ,gunakan port ssh
+* • If you can't log in to the VPS, use the SSH port
 * • 22, 2253
 
-### Jangan Lupa Traktir Kopi
-<a href="https://trakteer.id/sulaiman-l/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
+### Don't forget to treat coffee
+<a href="https://trakteer.id/sulaiman-l/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images /embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="My Tract"></a>
 https://trakteer.id/sulaiman-l/tip
 
 ### 5. MENU, INFO ,UPDATE ,FIX
-* untuk menampilkan menu
+* to display the menu
 ```html
 menu
 ```
-* untuk update menu dan update info
+* for menu updates and info updates
 ```html
 updatemenu
 ```
-* otomatis untuk memperbaiki error SSLH, WS-TLS
+* Automatically fix SSLH, WS-TLS errors
 ```html
 sl-fix
 ```
 ```html
 reboot
 ```
-* Perbaiki SSL ERROR
-* otomatis untuk memperbaiki error Sertifikat SSL/TLS dan SUBDOMAIN
-* perbaiki error di bagian acme domain
-* untuk update Sertifikat SSL/TLS
+* Fix SSL ERROR
+* automatically to fix SSL/TLS Certificate errors and SUBDOMAIN
+* fix error in acme domain section
+* to update SSL/TLS certificates
 ```html
 slhost && certv2ray
 ```
-* lalu restart
+*then restart
 ```html
 restart
 ```
@@ -147,66 +146,66 @@ restart
 
 ### 6. FIX ERROR SSLH WS
 # Auto Fix Error SSLH + WS-TLS 443
-* 1 • Jika terjadi error di SSLH dan SSH WS-TLS nya,gunakan script ini untuk memperbaiki nya
+* 1 • If an error occurs in SSLH and SSH WS-TLS, use this script to fix it
 ```html
 menu
- ```
+  ```
 
-* 2 • di menu lalu pilih 17 (SL-FIX Menu)
+* 2 • in the menu then select 17 (SL-FIX Menu)
 ```html
 17
- ```
+  ```
 
-* 3 • jika sudah selesai lalu reboot/ hidupkan ulang vps nya
+* 3 • if it's finished then reboot / restart the vps
 ```html
 reboot
- ```
+  ```
 
-### 7. Info Websocket
-* Websocket harus menggunakan subdomain/domain dan sudah di pointing di cloudflare (CDN CLOUDFLARE)
-* Tanpa subdomain/domain mustahil bisa terhubung dengan bug yang berasal dari cloudflare
+### 7. Websocket info
+* Websocket must use a subdomain/domain and already pointed at cloudflare (CDN CLOUDFLARE)
+* Without a subdomain/domain it's impossible to connect with bugs originating from cloudflare
 *
 *
 *
 
-### 8. Edit Port SSL WS atau Ganti Port SSL(Manual)
-* ubah port yg mau di ubah ,jika 443 silahkan ubah tulisan yang ada 443
-* setelah di edit lalu di simpan (CTRL+X+Y dan enter)
+### 8. Edit Port SSL WS or Change Port SSL (Manual)
+* change the port you want to change, if it's 443, please change the existing text to 443
+* after editing then save (CTRL+X+Y and enter)
 
 ```html
-nano /etc/systemd/system/ws-tls.service
- ```
+nano /etc/systemd/system/ws-tls. service
+  ```
 ```html
 nano /usr/local/bin/ws-tls
- ```
+  ```
 ```html
 nano /etc/default/sslh
- ```
+  ```
 ```html
 nano /etc/stunnel5/stunnel5.conf
- ```
+  ```
 
-### 100 (Fix manual) Fix Error SSLH
+### 100 (Fix manually) Fix SSLH Error
 
-* Perbaiki sslh yang error di vps yang tidak support sslh
-* khusus yang vps nya tidak support sslh
-* matikan ws-tls
+* Fix SSLH errors on VPS that don't support SSLH
+* especially those whose VPS does not support SSLH
+* turn off ws-tls
 ```html
 systemctl stop ws-tls
 ```
-* buat user sslh / edit passwd
+* create user sslh / edit passwd
 ```html
 echo sslh:x:109:114::/nonexistent:/usr/sbin/nologin >> /etc/passwd
 ```
-* note: edit passwd dan pindah sslh nya di atas vnstat
+* note: edit the passwd and move the sslh above vnstat
 
-* start sslh dan jalankan
+* start sslh and run
 ```html
 systemctl start sslh
 /etc/init.d/sslh start
 /etc/init.d/sslh restart
 ```
-* lalu start ws-tls
+* then start ws-tls
 ```html
 systemctl start ws-tls
 ```
@@ -217,13 +216,13 @@ reboot
 
 
 
-# INFO Khusus SlowDNS
+# Special INFO SlowDNS
 • SSH Over DNS (SlowDNS)
-* untuk kecepatan nya di batasi
-* speed download 4 Mbps (Max Speed)
-* Support semua port ssh
+* the speed is limited
+* download speed 4 Mbps (Max Speed)
+* Support all ssh ports
 
-### Fitur Script
+### Script Features
 
 • CEK SEMUA IP DAN PORT (Service ALL VPN)
 
