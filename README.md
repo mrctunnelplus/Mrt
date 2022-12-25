@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=V+P+S" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%FFFE9C00&center=true&vCenter=true&lines=V+P+S" />
 </p>
 <p align='center'><a href="https://api.daily.dev/get?r=mrctunnelplus"><img src="https://raw.githubusercontent.com/mrctunnelplus/.github/main/kotori2.png?r=82s" width="150" alt="Mrconnected"/></a></p>
 
