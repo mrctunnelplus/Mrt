@@ -8,7 +8,7 @@
 
 <h2 align="center">
 Auto Script Install All VPN Service
-Mod By SL
+Mod By Mrt
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -25,7 +25,7 @@ https://github.com/mrctunnelplus/XRAY-Mrt
 ### Script Khusus Xray Multi Port TERBARU
 
 ### Link Grup FB: 
-https://www.facebook.com/groups/1880372362109422/?ref=share
+https://www.facebook.com/mrconnectedvpn2
 ### Info:
 * HARAP DI BACA & UTAMAKAN MEMBACA
 # INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
