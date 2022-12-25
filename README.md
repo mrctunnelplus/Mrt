@@ -1,14 +1,13 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=M+R+C+O+N+N+E+C+T+E+D++S+E+T+U+P" />
 </p>
-<p align='center'><a href="https://api.daily.dev/get?r=mrctunnelplus"><img src="https://raw.githubusercontent.com/mrctunnelplus/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=mrctunnelplus"><img src="https://raw.githubusercontent.com/mrctunnelplus/.github/main/kotori2.png?r=82s" width="150" alt="Admin"/></a></p>
 
 ![mrctunnelplus's card name](https://cardivo.vercel.app/api?name=TUNNEL%20SETUP&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mrctunnelplus/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mrctunnelplus&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <h2 align="center">
-Auto Script Install All VPN Service
-Mod By Mrt
+Auto Script Installation
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
